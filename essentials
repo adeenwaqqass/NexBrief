@@ -1,0 +1,7 @@
+-Front-end: React + FramerMotion
+-DB: MongoDB
+-API:FastAPI
+-Lib: LangChain 
+-Server: vercel / Netlify
+-News:https://newsapi.org/pricing
+-API testing: Postman / postwoman
