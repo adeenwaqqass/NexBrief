@@ -3,5 +3,5 @@
 -API:FastAPI
 -Lib: LangChain 
 -Server: vercel / Netlify
--News:https://newsapi.org/pricing
+-News:https://newsapi.org/pricing API key = 2a5a326a5d244f6cb1fd742e226fb548
 -API testing: Postman / postwoman
