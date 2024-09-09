@@ -1,7 +1,12 @@
-# NexBrief 
-### News Aggregator
+# NexBrief
+
+## News Aggregator
+
+##### Group Members : A07-Adeen Waqqas Ahmed, A08-Aditya Rane, A10-Aditya Mandal, A19-Amit Yadav.
+
 ---
-### **Project Overview:**
+
+### **Project Overview**
 
 This application is designed to fetch the latest news articles from various sources, summarize them into 60 words, and present them in a user-friendly, minimalistic interface. It provides users with a quick glance at important news, and upon clicking, redirects them to the original article for full details.
 
