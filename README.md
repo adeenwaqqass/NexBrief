@@ -2,9 +2,7 @@
 
 ## News Aggregator
 
-##### Group Members : A07-Adeen Waqqas Ahmed, A08-Aditya Rane, A10-Aditya Mandal, A19-Amit Yadav.
 
----
 
 ### **Project Overview**
 
